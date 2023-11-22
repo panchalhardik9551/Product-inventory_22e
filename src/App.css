@@ -1,0 +1,10 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 70px;
+  background-color: aqua;
+}
+
+img{
+  height: 150px;
+}
